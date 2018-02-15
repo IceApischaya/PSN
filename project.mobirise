@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 58,
+    "uniqCompNum": 59,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -297,8 +297,8 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Poisonous Animals</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"PSN\">หน้าหลัก</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">สัตว์มีพิษ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fog\">กบลูกดอก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kk\">กิ้งก่าลูกปัด</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kkb\">คางคกบ้าน</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"snakj\">งูจงอาง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">งูไทปัน</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"st\">งูเสือ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sb\">งูหางกระดิ่ง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sh\">งูเห่า</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"salamander\">ซาลาเมนเดอร์ไฟ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"con\">contact</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"PSN\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Poisonous Animals</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"PSN\">หน้าหลัก</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">สัตว์มีพิษ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fog\">กบลูกดอก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kk\">กิ้งก่าลูกปัด</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kkb\">คางคกบ้าน</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"snakj\">งูจงอาง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"taipun\">งูไทปัน</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"st\">งูเสือ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sb\">งูหางกระดิ่ง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sh\">งูเห่า</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"salamander\">ซาลาเมนเดอร์ไฟ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"con\">contact</a></li>"
         },
         {
           "_inherit": "msg-box5",
@@ -476,8 +476,8 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Poisonous Animals</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"PSN\">หน้าหลัก</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">สัตว์มีพิษ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fog\">กบลูกดอก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kk\">กิ้งก่าลูกปัด</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kkb\">คางคกบ้าน</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"snakj\">งูจงอาง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">งูไทปัน</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"st\">งูเสือ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sb\">งูหางกระดิ่ง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sh\">งูเห่า</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"salamander\">ซาลาเมนเดอร์ไฟ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"con\">contact</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"PSN\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Poisonous Animals</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"PSN\">หน้าหลัก</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">สัตว์มีพิษ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fog\">กบลูกดอก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kk\">กิ้งก่าลูกปัด</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kkb\">คางคกบ้าน</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"snakj\">งูจงอาง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"taipun\">งูไทปัน</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"st\">งูเสือ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sb\">งูหางกระดิ่ง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sh\">งูเห่า</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"salamander\">ซาลาเมนเดอร์ไฟ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"con\">contact</a></li>"
         },
         {
           "_tags": [
@@ -648,8 +648,8 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Poisonous Animals</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"PSN\">หน้าหลัก</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">สัตว์มีพิษ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fog\">กบลูกดอก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kk\">กิ้งก่าลูกปัด</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kkb\">คางคกบ้าน</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"snakj\">งูจงอาง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">งูไทปัน</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"st\">งูเสือ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sb\">งูหางกระดิ่ง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sh\">งูเห่า</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"salamander\">ซาลาเมนเดอร์ไฟ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"con\">contact</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"PSN\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Poisonous Animals</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"PSN\">หน้าหลัก</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">สัตว์มีพิษ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fog\">กบลูกดอก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kk\">กิ้งก่าลูกปัด</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kkb\">คางคกบ้าน</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"snakj\">งูจงอาง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"taipun\">งูไทปัน</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"st\">งูเสือ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sb\">งูหางกระดิ่ง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sh\">งูเห่า</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"salamander\">ซาลาเมนเดอร์ไฟ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"con\">contact</a></li>"
         },
         {
           "_tags": [
@@ -830,7 +830,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"PSN\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Poisonous Animals</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"PSN\">หน้าหลัก</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">สัตว์มีพิษ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fog\">กบลูกดอก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kk\">กิ้งก่าลูกปัด</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kkb\">คางคกบ้าน</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"snakj\">งูจงอาง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">งูไทปัน</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"st\">งูเสือ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sb\">งูหางกระดิ่ง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sh\">งูเห่า</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"salamander\">ซาลาเมนเดอร์ไฟ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"con\">contact</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"PSN\">หน้าหลัก</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">สัตว์มีพิษ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fog\">กบลูกดอก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kk\">กิ้งก่าลูกปัด</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kkb\">คางคกบ้าน</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"snakj\">งูจงอาง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"taipun\">งูไทปัน</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"st\">งูเสือ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sb\">งูหางกระดิ่ง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sh\">งูเห่า</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"salamander\">ซาลาเมนเดอร์ไฟ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"con\">contact</a></li>"
         },
         {
           "_tags": [
@@ -1006,8 +1006,8 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Poisonous Animals</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"PSN\">หน้าหลัก</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">สัตว์มีพิษ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fog\">กบลูกดอก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kk\">กิ้งก่าลูกปัด</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kkb\">คางคกบ้าน</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"snakj\">งูจงอาง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">งูไทปัน</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"st\">งูเสือ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sb\">งูหางกระดิ่ง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sh\">งูเห่า</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"salamander\">ซาลาเมนเดอร์ไฟ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"con\">contact</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"PSN\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Poisonous Animals</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"PSN\">หน้าหลัก</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">สัตว์มีพิษ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fog\">กบลูกดอก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kk\">กิ้งก่าลูกปัด</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kkb\">คางคกบ้าน</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"snakj\">งูจงอาง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"taipun\">งูไทปัน</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"st\">งูเสือ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sb\">งูหางกระดิ่ง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sh\">งูเห่า</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"salamander\">ซาลาเมนเดอร์ไฟ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"con\">contact</a></li>"
         },
         {
           "_tags": [
@@ -1161,68 +1161,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"PSN\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Poisonous Animals</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"PSN\">หน้าหลัก</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">สัตว์มีพิษ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fog\">กบลูกดอก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kk\">กิ้งก่าลูกปัด</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kkb\">คางคกบ้าน</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"snakj\">งูจงอาง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">งูไทปัน</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"st\">งูเสือ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sb\">งูหางกระดิ่ง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sh\">งูเห่า</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"salamander\">ซาลาเมนเดอร์ไฟ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"con\">contact</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider3",
-          "_params": {
-            "autoplay": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "timeout": 5,
-            "slides": [
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/2000x1329.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "งูเสือ",
-                "showText": true,
-                "text": "งูเสือมีสีน้ำตาลเข้มพบในตอนใต้ของออสเตรเลียและมักพบมากในเขตร้อน เช่น ชายฝั่งทะเลแทสเมเนีย ขนาดที่ใหญ่ที่สุดที่เคยวัดได้คือ 3 เมตร เมื่อจะโจมตีมันจะทำตัวแบนราบและยกหัวขึ้นจากพื้นฉะนั้นหากคุณเห็นลักษณะเช่นนี้ให้รีบออกห่างโดยไว เพราะพิษของงูเสือจะทำให้คุณเจ็บปวดบริเวณที่ถูกกัดและที่คอ เท้าชา เหงื่อออก มึนงง ระบบหายใจล้มเหลว และเป็นอัมพาต ครึ่งหนึ่งของผู้ตกเป็นเหยื่อมักเสียชีวิตเนื่องจากไม่ได้รับการรักษาในทันที",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "left",
-                "showTitle": true,
-                "title": "BACKGROUND VIDEO",
-                "showText": true,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "right",
-                "showTitle": true,
-                "title": "BOOTSTRAP SLIDER",
-                "showText": true,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              }
-            ],
-            "fullScreen": false,
-            "bgColor": "#7e9b9f",
-            "showBullets": true
-          },
-          "_anchor": "slider3-1e",
-          "articleLayout": false
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"PSN\">หน้าหลัก</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">สัตว์มีพิษ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fog\">กบลูกดอก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kk\">กิ้งก่าลูกปัด</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kkb\">คางคกบ้าน</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"snakj\">งูจงอาง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"taipun\">งูไทปัน</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"st\">งูเสือ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sb\">งูหางกระดิ่ง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sh\">งูเห่า</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"salamander\">ซาลาเมนเดอร์ไฟ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"con\">contact</a></li>"
         },
         {
           "_tags": [
@@ -1243,6 +1182,58 @@
             "overlayColor": "#444444"
           },
           "text": "POISOMOUS ANIMALS"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-1m",
+          "_params": {
+            "imageSize": 50,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/-1400x930.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "งูเสือ",
+          "text": "งูเสือมีสีน้ำตาลเข้มพบในตอนใต้ของออสเตรเลียและมักพบมากในเขตร้อน เช่น ชายฝั่งทะเลแทสเมเนีย ขนาดที่ใหญ่ที่สุดที่เคยวัดได้คือ 3 เมตร เมื่อจะโจมตีมันจะทำตัวแบนราบและยกหัวขึ้นจากพื้นฉะนั้นหากคุณเห็นลักษณะเช่นนี้ให้รีบออกห่างโดยไว เพราะพิษของงูเสือจะทำให้คุณเจ็บปวดบริเวณที่ถูกกัดและที่คอ เท้าชา เหงื่อออก มึนงง ระบบหายใจล้มเหลว และเป็นอัมพาต ครึ่งหนึ่งของผู้ตกเป็นเหยื่อมักเสียชีวิตเนื่องจากไม่ได้รับการรักษาในทันที<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         }
       ]
     },
@@ -1342,7 +1333,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"PSN\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Poisonous Animals</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"PSN\">หน้าหลัก</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">สัตว์มีพิษ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fog\">กบลูกดอก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kk\">กิ้งก่าลูกปัด</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kkb\">คางคกบ้าน</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"snakj\">งูจงอาง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">งูไทปัน</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"st\">งูเสือ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sb\">งูหางกระดิ่ง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sh\">งูเห่า</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"salamander\">ซาลาเมนเดอร์ไฟ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"con\">contact</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"PSN\">หน้าหลัก</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">สัตว์มีพิษ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fog\">กบลูกดอก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kk\">กิ้งก่าลูกปัด</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kkb\">คางคกบ้าน</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"snakj\">งูจงอาง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"taipun\">งูไทปัน</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"st\">งูเสือ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sb\">งูหางกระดิ่ง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sh\">งูเห่า</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"salamander\">ซาลาเมนเดอร์ไฟ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"con\">contact</a></li>"
         },
         {
           "_tags": [
@@ -1521,7 +1512,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"PSN\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Poisonous Animals</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"PSN\">หน้าหลัก</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">สัตว์มีพิษ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fog\">กบลูกดอก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kk\">กิ้งก่าลูกปัด</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kkb\">คางคกบ้าน</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"snakj\">งูจงอาง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">งูไทปัน</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"st\">งูเสือ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sb\">งูหางกระดิ่ง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sh\">งูเห่า</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"salamander\">ซาลาเมนเดอร์ไฟ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"con\">contact</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"PSN\">หน้าหลัก</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">สัตว์มีพิษ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fog\">กบลูกดอก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kk\">กิ้งก่าลูกปัด</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kkb\">คางคกบ้าน</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"snakj\">งูจงอาง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"taipun\">งูไทปัน</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"st\">งูเสือ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sb\">งูหางกระดิ่ง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sh\">งูเห่า</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"salamander\">ซาลาเมนเดอร์ไฟ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"con\">contact</a></li>"
         },
         {
           "_tags": [
@@ -1692,8 +1683,8 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Poisonous Animals</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"PSN\">หน้าหลัก</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">สัตว์มีพิษ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fog\">กบลูกดอก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kk\">กิ้งก่าลูกปัด</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kkb\">คางคกบ้าน</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"snakj\">งูจงอาง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">งูไทปัน</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"st\">งูเสือ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sb\">งูหางกระดิ่ง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sh\">งูเห่า</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"salamander\">ซาลาเมนเดอร์ไฟ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"con\">contact</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"PSN\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Poisonous Animals</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"PSN\">หน้าหลัก</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">สัตว์มีพิษ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fog\">กบลูกดอก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kk\">กิ้งก่าลูกปัด</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kkb\">คางคกบ้าน</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"snakj\">งูจงอาง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"taipun\">งูไทปัน</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"st\">งูเสือ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sb\">งูหางกระดิ่ง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sh\">งูเห่า</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"salamander\">ซาลาเมนเดอร์ไฟ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"con\">contact</a></li>"
         },
         {
           "_inherit": "msg-box5",
@@ -1872,7 +1863,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"PSN\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Poisonous Animals</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"PSN\">หน้าหลัก</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">สัตว์มีพิษ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fog\">กบลูกดอก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kk\">กิ้งก่าลูกปัด</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kkb\">คางคกบ้าน</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"snakj\">งูจงอาง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">งูไทปัน</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"st\">งูเสือ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sb\">งูหางกระดิ่ง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sh\">งูเห่า</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"salamander\">ซาลาเมนเดอร์ไฟ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"con\">contact</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"PSN\">หน้าหลัก</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">สัตว์มีพิษ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fog\">กบลูกดอก</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kk\">กิ้งก่าลูกปัด</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kkb\">คางคกบ้าน</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"snakj\">งูจงอาง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"taipun\">งูไทปัน</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"st\">งูเสือ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sb\">งูหางกระดิ่ง</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sh\">งูเห่า</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"salamander\">ซาลาเมนเดอร์ไฟ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"con\">contact</a></li>"
         },
         {
           "_tags": [
