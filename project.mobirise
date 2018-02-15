@@ -159,10 +159,10 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/164x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-164x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "PSN",
               "title": "",
               "linkInNewWindow": false
             },
@@ -171,8 +171,9 @@
               "linkInNewWindow": false,
               "name": "swarm",
               "family": "socicon",
-              "link": "https://mobirise.com",
+              "link": "PSN",
               "size": 0,
+              "newWindow": false,
               "active": true
             }
           },
